@@ -1,0 +1,8 @@
+---
+
+## 5️⃣ `.gitignore`
+```txt
+__pycache__/
+*.h5
+.venv/
+.env
